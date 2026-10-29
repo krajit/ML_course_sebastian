@@ -43,3 +43,20 @@ Q. Explain what did you understand about the Bias-Variance tradeoff.
 
 
 # Chapter 12: k-Nearest Neighbors
+
+Q. What is the main broad idea about *nearest neighbour classification*? 
+- Explain the book example
+- Create your own example.
+
+## The Model
+
+Q. Write the code to reproduce Fig. 12-1
+![alt text](image-4.png)
+
+Q. Write the code to reproduce Fig. 12.2
+
+Q. Can you do similar exercise like Fig. 12-1, 12-2 over India map?
+
+## Curse of dimensionality
+
+Q. Explain what did the author mean with the curse of dimensionality with examples. 
